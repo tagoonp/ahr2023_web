@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600&display=swap');
+* {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400 !important;
+}
+
+.f1-600, h1, h2, h3, h4, h5, h6{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 600 !important;
+}
+
+.text-right{
+    text-align: right !important;
+}
+
+.thumbnail-icon{
+    transition: .2s;
+}
+  
+.thumbnail-icon:hover{
+cursor: pointer;
+transform: scale(1.1);
+}

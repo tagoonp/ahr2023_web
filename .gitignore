@@ -2,7 +2,6 @@
 */logs/log-*.php
 !*/logs/index.html
 */cache/*
-!system/cache/*
 !*/cache/index.html
 !*/cache/.htaccess
 
@@ -16,3 +15,11 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+
+config/php/config.conf.php
+config/js/config.conf.js
+pgf2023/upload/abstract/*
+
+ahr2023/upload/abstract/*
+ahr2023/config/php/config.conf.php
+ahr2023/config/js/config.conf.js
